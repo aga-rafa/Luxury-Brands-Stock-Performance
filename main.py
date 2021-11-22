@@ -1,9 +1,3 @@
-#import requests
-#from bs4 import BeautifulSoup
-
-
-#response requests.get("https://euraxess.ec.europa.eu/jobs/search")
-
 import yfinance as yahooFinance
 import datetime
 import pandas as pd
